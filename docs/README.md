@@ -26,3 +26,7 @@
 ![](assets/img/Nekojishi_4.jpg)
 
 > [Source](https://forum.gamer.com.tw/C.php?bsn=36399&snA=486&tnum=3)
+
+## 秘法塔
+
+![0807](assets/img/tower_20190807.jpg)
