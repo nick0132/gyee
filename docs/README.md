@@ -29,4 +29,5 @@
 
 ## 秘法塔
 
+![0806](assets/img/tower_20190806.jpg)
 ![0807](assets/img/tower_20190807.jpg)
