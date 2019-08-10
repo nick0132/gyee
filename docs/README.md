@@ -34,3 +34,4 @@
 ![0808](assets/img/tower_20190808.jpg)
 ![0809](assets/img/tower_20190809.jpg)
 ![0810](assets/img/tower_20190810.jpg)
+![0811](assets/img/tower_20190811.jpg)
