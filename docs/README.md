@@ -36,6 +36,8 @@
 ![0810](assets/img/tower_20190810.jpg)
 ![0811](assets/img/tower_20190811.jpg)
 ![0814](assets/img/tower_20190814.jpg)
+![0815](assets/img/tower_20190815.jpg)
+![0815-2](assets/img/tower_20190815-2.jpg)
 
 ## 競技場
 
