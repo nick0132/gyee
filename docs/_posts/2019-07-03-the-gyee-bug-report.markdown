@@ -1,7 +1,7 @@
 ---
-layout: post
-title:  "BUG反饋"
-categories: gyee
+## layout: post
+## title:  "BUG反饋"
+## categories: gyee
 ---
 
 ## 技能「劇毒潛伏」
