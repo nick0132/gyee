@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 藏寶圖-寶箱位置與啟迪
+title: 藏寶圖
 permalink: /treasure/
 ---
 ## 地圖寶箱位置&啟迪數量
